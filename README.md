@@ -27,10 +27,15 @@ Riya can chat in an enthusiastic, witty style and also speak her replies aloud.
 I built this chatbot as a hands-on project to learn about LLMs, prompt design, and building interactive AI apps.
 It’s a lightweight, fully free solution using open models — but can be upgraded to GPT-3.5/4 for better answers.
 
+
 ## ⚡ Quick Start
 Clone the repo and install requirements:
 ```bash
 git clone https://github.com/<your-username>/riya-chatbot.git
 cd riya-chatbot
 pip install -r requirements.txt
-python app.py 
+python app.py
+
+☁️ Alternative — Run on Google Colab
+You can try the chatbot directly in Google Colab without installing anything:
+https://colab.research.google.com/drive/1Och4mf2sKjgPow_sIMdxMEOlh-cZO_qa?usp=sharing
