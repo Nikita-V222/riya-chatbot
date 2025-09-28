@@ -16,13 +16,6 @@ Riya can chat in an enthusiastic, witty style and also speak her replies aloud.
 - gTTS (text to speech)
 - Torch
 
-## ⚡ Quick Start
-Clone the repo and install requirements:
-```bash
-git clone https://github.com/<your-username>/riya-chatbot.git
-cd riya-chatbot
-pip install -r requirements.txt
-python app.py
 
 📸 Demo Screenshot
 <img width="1666" height="588" alt="Screenshot 2025-09-28 172847" src="https://github.com/user-attachments/assets/749e7a5e-01e9-4677-b557-b2f5b97d8c88" />
@@ -33,3 +26,11 @@ python app.py
 🌟 About the Project
 I built this chatbot as a hands-on project to learn about LLMs, prompt design, and building interactive AI apps.
 It’s a lightweight, fully free solution using open models — but can be upgraded to GPT-3.5/4 for better answers.
+
+## ⚡ Quick Start
+Clone the repo and install requirements:
+```bash
+git clone https://github.com/<your-username>/riya-chatbot.git
+cd riya-chatbot
+pip install -r requirements.txt
+python app.py 
